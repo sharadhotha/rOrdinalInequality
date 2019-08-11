@@ -1,0 +1,3 @@
+plo<-function(endow,categories){
+	
+}
